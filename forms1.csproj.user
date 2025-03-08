@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<<<<<<< HEAD:login/login.csproj.user
+    <ItemGroup>
+        <Compile Update="Form1.cs">
+            <SubType>Form</SubType>
+        </Compile>
+    </ItemGroup>
+</Project>
+=======
+  <ItemGroup>
+    <Compile Update="C:\Users\rikelmi.varaujo\Documents\rikelmisenac\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
+>>>>>>> 85d66f729229871f34c2bb35a95a8928b9b31cf3:forms1/forms1.csproj.user

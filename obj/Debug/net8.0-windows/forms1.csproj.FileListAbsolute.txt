@@ -1,0 +1,17 @@
+C:\Users\rikelmi.varaujo\source\repos\rikelmisenac\forms1\bin\Debug\net8.0-windows\forms1.exe
+C:\Users\rikelmi.varaujo\source\repos\rikelmisenac\forms1\bin\Debug\net8.0-windows\forms1.deps.json
+C:\Users\rikelmi.varaujo\source\repos\rikelmisenac\forms1\bin\Debug\net8.0-windows\forms1.runtimeconfig.json
+C:\Users\rikelmi.varaujo\source\repos\rikelmisenac\forms1\bin\Debug\net8.0-windows\forms1.dll
+C:\Users\rikelmi.varaujo\source\repos\rikelmisenac\forms1\bin\Debug\net8.0-windows\forms1.pdb
+C:\Users\rikelmi.varaujo\source\repos\rikelmisenac\forms1\obj\Debug\net8.0-windows\forms1.Form1.resources
+C:\Users\rikelmi.varaujo\source\repos\rikelmisenac\forms1\obj\Debug\net8.0-windows\forms1.csproj.GenerateResource.cache
+C:\Users\rikelmi.varaujo\source\repos\rikelmisenac\forms1\obj\Debug\net8.0-windows\forms1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rikelmi.varaujo\source\repos\rikelmisenac\forms1\obj\Debug\net8.0-windows\forms1.AssemblyInfoInputs.cache
+C:\Users\rikelmi.varaujo\source\repos\rikelmisenac\forms1\obj\Debug\net8.0-windows\forms1.AssemblyInfo.cs
+C:\Users\rikelmi.varaujo\source\repos\rikelmisenac\forms1\obj\Debug\net8.0-windows\forms1.csproj.CoreCompileInputs.cache
+C:\Users\rikelmi.varaujo\source\repos\rikelmisenac\forms1\obj\Debug\net8.0-windows\forms1.sourcelink.json
+C:\Users\rikelmi.varaujo\source\repos\rikelmisenac\forms1\obj\Debug\net8.0-windows\forms1.dll
+C:\Users\rikelmi.varaujo\source\repos\rikelmisenac\forms1\obj\Debug\net8.0-windows\refint\forms1.dll
+C:\Users\rikelmi.varaujo\source\repos\rikelmisenac\forms1\obj\Debug\net8.0-windows\forms1.pdb
+C:\Users\rikelmi.varaujo\source\repos\rikelmisenac\forms1\obj\Debug\net8.0-windows\forms1.genruntimeconfig.cache
+C:\Users\rikelmi.varaujo\source\repos\rikelmisenac\forms1\obj\Debug\net8.0-windows\ref\forms1.dll

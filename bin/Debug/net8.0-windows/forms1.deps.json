@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+<<<<<<< HEAD:login/bin/Debug/net8.0-windows/login.deps.json
+      "Login/1.0.0": {
+        "runtime": {
+          "Login.dll": {}
+=======
+      "forms1/1.0.0": {
+        "runtime": {
+          "forms1.dll": {}
+>>>>>>> 85d66f729229871f34c2bb35a95a8928b9b31cf3:forms1/bin/Debug/net8.0-windows/forms1.deps.json
+        }
+      }
+    }
+  },
+  "libraries": {
+<<<<<<< HEAD:login/bin/Debug/net8.0-windows/login.deps.json
+    "Login/1.0.0": {
+=======
+    "forms1/1.0.0": {
+>>>>>>> 85d66f729229871f34c2bb35a95a8928b9b31cf3:forms1/bin/Debug/net8.0-windows/forms1.deps.json
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
